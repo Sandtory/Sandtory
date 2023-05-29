@@ -15,8 +15,8 @@ I am Henning Sandtorv, a software engineer from Norway and a graduate of Østfol
 ### 🚀 Some of my main projects:
 - **Event Tracker - Blazor Frontend** ([Link](https://github.com/Sandtory/EventTrackerBlazorFrontend)) - A frontend built using Blazor for the Event Tracker application.
 - **Event Tracker - .NET Backend** ([Link](https://github.com/Sandtory/EventTrackerDotNET)) - The backend for the Event Tracker application built with .NET.
-- **TerraView** ([Link](https://github.com/Sandtory/TerraView)) - A project for viewing terrains (more details to be added).
-- **IgniteInsight** ([Link](https://github.com/Sandtory/IgniteInsight)) - A web application for articles about interests in Angular and Node.js.
+- **TerraView** ([Link](https://github.com/Sandtory/TerraView)) - A project for viewing events on a map (more details to be added).
+- **IgniteInsight** ([Link](https://github.com/Sandtory/IgniteInsight)) - A web application for writing articles, made with Angular, Node.js and Express.
 
 Feel free to check out my repos and let's connect!
 
