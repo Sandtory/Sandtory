@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile!
 
-I am Henning Sandtorv, a software engineer from Norway and a graduate of Østfold University College. I'm passionate about coding and transforming ideas into reality. When I'm not coding, you can find me working out, surfing, or enjoying the company of others.
+I'm Henning, a software engineer based in Norway, with a solid foundation from Østfold University College. My primary mission is to shape ideas into robust, functional software. Outside of the coding sphere, I enjoy surfing, staying fit, and connecting with others.
 
 ### 🏆 My Skills:
 - **Languages:** C#, JavaScript, Java, Python, HTML/CSS, C, Typescript
@@ -18,9 +18,9 @@ I am Henning Sandtorv, a software engineer from Norway and a graduate of Østfol
 - **TerraView** ([Link](https://github.com/Sandtory/TerraView)) - A project for viewing events on a map (more details to be added).
 - **IgniteInsight** ([Link](https://github.com/Sandtory/IgniteInsight)) - A web application for writing articles, made with Angular, Node.js and Express.
 
-Feel free to check out my repos and let's connect!
+Feel free to explore my repositories. I hope they inspire you as much as they've inspired me during the creation process!
 
-### 📫 How to reach me:
+### 📮 Get in Touch:
 - LinkedIn: [Henning Sandtorv's LinkedIn](https://www.linkedin.com/in/henningsandtorv/)
 
 ---
@@ -29,4 +29,4 @@ Feel free to check out my repos and let's connect!
 
 ---
 
-💻 Happy Coding! 💻
+🌱 Keep growing! 🌱
