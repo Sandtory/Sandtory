@@ -5,8 +5,8 @@
 I'm Henning, a software engineer based in Norway, with a solid foundation from Østfold University College. My primary mission is to shape ideas into robust, functional software. Outside of the coding sphere, I enjoy surfing, staying fit, and connecting with others.
 
 ### 🏆 My Skills:
-- **Languages:** C#, JavaScript, Java, Python, HTML/CSS, C, Typescript
-- **Frameworks/Libraries:** Angular, ASP.NET, Blazor, Node.js, Express.js
+- **Languages:** JavaScript, Java, Python, HTML/CSS, C, Typescript
+- **Frameworks/Libraries:** Angular, ASP.NET, Blazor, Node.js, Express.js, React, Next.js, React native, Expo
 - **Databases:** SQL, NoSQL, MongoDB
 - **Cloud Technologies:** AWS, Azure
 - **DevOps:** Docker, Azure DevOps (CI/CD), Github
