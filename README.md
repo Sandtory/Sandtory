@@ -13,10 +13,7 @@ I'm Henning, a software engineer based in Norway, with a solid foundation from Ã
 - **Others:** Algorithms & Data Structures, Maven
 
 ### ðŸš€ Some of my main projects:
-- **Event Tracker - Blazor Frontend** ([Link](https://github.com/Sandtory/EventTrackerBlazorFrontend)) - A frontend built using Blazor for the Event Tracker application.
-- **Event Tracker - .NET Backend** ([Link](https://github.com/Sandtory/EventTrackerDotNET)) - The backend for the Event Tracker application built with .NET.
-- **TerraView** ([Link](https://github.com/Sandtory/TerraView)) - A project for viewing events on a map (more details to be added).
-- **IgniteInsight** ([Link](https://github.com/Sandtory/IgniteInsight)) - A web application for writing articles, made with Angular, Node.js and Express.
+- All my projects can be found here on github or on [https://www.henningsandtorv.dev](https://www.henningsandtorv.dev/)
 
 Feel free to explore my repositories. I hope they inspire you as much as they've inspired me during the creation process!
 
